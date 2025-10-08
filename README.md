@@ -1,4 +1,4 @@
-<h1 align="center">Rafael Thomas</h1>
+<h1 align="center">Rafael Tomás</h1>
 <p align="center">🎓 Estudante de Engenharia de Software | Desenvolvedor Front-end & Back-end</p>
 
 <p align="center">
