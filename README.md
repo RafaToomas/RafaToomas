@@ -26,7 +26,7 @@
 ---
 
 ## 💡 Sobre mim
-Sou apaixonado por desenvolvimento de interfaces modernas e interativas, com foco em projetos front-end futuristas e soluções back-end robustas. Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.  
+Estudante de Engenharia de Software com foco em desenvolvimento front-end e back-end, criando soluções modernas, interativas e funcionais utilizando tecnologias como HTML, CSS, JavaScript, PHP, C#, Java e C++.”
 
 ---
 
